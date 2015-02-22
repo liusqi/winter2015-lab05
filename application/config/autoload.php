@@ -111,6 +111,6 @@ $autoload['language'] = array();
 
 $autoload['model'] = array('quotes');
 
-
+$autoload['libraries'] = array('database', 'parser', 'caboose');
 /* End of file autoload.php */
 /* Location: ./application/config/autoload.php */
